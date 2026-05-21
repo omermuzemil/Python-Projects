@@ -1,0 +1,22 @@
+from turtle import *
+colormode(255)
+pensize(5)
+hideturtle()
+ht()
+penup()
+goto(-80, 0)
+pendown()
+
+color('blue')
+forward(200)
+right(145)
+forward(200)
+right(145)
+forward(200)
+right(145)
+forward(200)
+right(142)
+forward(200)
+right(145)
+
+mainloop()
